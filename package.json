@@ -1,10 +1,8 @@
 {
-  "name": "math-site-with-material-design",
+  "name": "react-matematik",
   "version": "1.0.0",
-  "description": "Title describes.",
-  "keywords": [
-    "math"
-  ],
+  "description": "Simple react-app made for myself to test out PWAs.",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "react": "17.0.1",
